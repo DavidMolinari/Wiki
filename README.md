@@ -1,13 +1,13 @@
-# MEH
+# Liste de perles, d'outils useless, indispensables, conneries en tout genre, fun mehs, etc
 
 
 
-
+### Trends 
+* 04/01/2018 -  :heart_eyes: [Awwwards: Best web design trends](http://awwwards.com//)
+* 04/01/2018 -  :heart_eyes: [One Page Love : Sexy one page designs](http://onepagelove.com//)
 
 ### Css
 * 29/12/2017 -  :heart_eyes: [Should I use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
-
-
 
 ### JS
 
